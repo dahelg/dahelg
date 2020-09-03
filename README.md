@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Jamstack webpages built with ES6, React, Node.js, Contentful, AWS and a lot of other third party services. I also use Python 🐍 for webdev and for RaspberriPi fun. Sorry, all these things are private. 🤐 I'm going to open-source a lot more in the future.
+- 🔭 I’m currently working on Jamstack webpages built with ES6, React, Node.js, Contentful, AWS and a lot of other third party services. I also use Python 🐍 for webdev and for RaspberryPi fun. Sorry, all these things are private. 🤐 I'm going to open-source a lot more in the future.
 - 🌱 I’m currently learning for associate-level certifications on AWS to have a bullet-proof understanding of possibilities and limitations.
 - 👯 Want to geek-out? 👉 Tweet or DM via Twitter! 😎
