@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Helge 👋
 
 <!--
 **dahelg/dahelg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Jamstack webpages built with ES6, React, Node.js, Contentful, AWS and a lot of other third party services. I also use Python 🐍 for webdev and for RaspberryPi fun. Sorry, all these things are private. 🤐 (I'm going to open-source a lot more in the future. I `promise`! 😉)
-- 🌱 I’m currently learning for associate-level certifications on AWS to have a bullet-proof understanding of possibilities and limitations.
-- 👯 Want to geek-out? 👉 Tweet or DM via Twitter!  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/helgedrews.svg?style=social&label=Follow%20%40helgedrews)](https://twitter.com/helgedrews) 😎
+- 🔭 I’m currently working as a professional Software Developer and built complex Jamstack webpages built with ES6, TypeScript, React, Node.js, Contentful, Sanity, Gatsby, Next.js, AWS, Netlify, Gatsby Cloud, Cloudinary, Mux.com ... and a lot of other third party services. I also use Python 🐍 for webdev and for RaspberryPi fun.
+- 🌱 In my studies, I'm deepening my knowledge in all areas of web development, but I'm especially focused on learning AWS.
+- 🐝 I'm a hobby drone pilot and 360 degree photographer/videographer.
+- 💬 Want to talk? 👉 Tweet or DM via Twitter!  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/helgedrews.svg?style=social&label=Follow%20%40helgedrews)](https://twitter.com/helgedrews) 😎
