@@ -1,6 +1,6 @@
 ### Hi there, I'm Helge 👋
 
-I’m a professional Software Developer working for a large company and as a freelancer on contract-based projects. Passionate about creating scalable Jamstack solutions, I specialize in building robust web applications using modern tools and technologies.
+I’m Helge, an AI Voice & Web Engineer working independently.
 
 ---
 
@@ -29,4 +29,4 @@ Want to talk about something non-dev? Here are a few topics I’m passionate abo
 #### 📬 **Get in Touch**
 
 💬 Tweet or DM me on X! [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/helgedrews.svg?style=social&label=Follow%20%40helgedrews)](https://twitter.com/helgedrews)  
-👉 Visit my [homepage](https://www.hdrews.de) for more professional contact options, or let’s connect if you’re ready to create something amazing together!
+👉 Visit my [homepage](https://www.helgedrews.de) for more professional contact options, or let’s connect if you’re ready to create something amazing together!
